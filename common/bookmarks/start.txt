@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "START"
+	desc = "START_DESC"
+	date = 1400.1.1
+	
+	center = 326
+	default = yes
+	
+	country = RUM
+	
+	easy_country = BYZ
+}
