@@ -5,3 +5,4 @@ NAT = "countries/Natives.txt"
 
 RUM = "countries/Rum.txt"
 BYZ = "countries/ByzantineEmpire.txt"
+LOT = "countries/Lotharingia.txt"
