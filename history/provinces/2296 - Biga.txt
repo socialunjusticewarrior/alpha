@@ -2,8 +2,8 @@
 
 owner = BYZ
 controller = BYZ
-culture = greek
-religion = orthodox
+culture = Anatolian
+religion = catholic
 capital = "Biga"
 trade_goods = naval_supplies
 hre = no

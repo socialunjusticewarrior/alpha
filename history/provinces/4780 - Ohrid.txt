@@ -2,8 +2,8 @@
 
 owner = BYZ
 controller = BYZ
-culture = bulgarian
-religion = orthodox
+culture = NorthMacedonians
+religion = catholic
 capital = "Ohrid"
 trade_goods = wool
 hre = no
