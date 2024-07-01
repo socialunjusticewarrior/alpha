@@ -5,10 +5,9 @@ NAT = "countries/Natives.txt"
 
 RUM = "countries/Rum.txt"
 BYZ = "countries/ByzantineEmpire.txt"
-<<<<<<< Updated upstream
 LOT = "countries/Lotharingia.txt"
 VEN = "countries/Venice.txt"
 FLZ = "countries/Flachland.txt"
-=======
 ABB = "countries/Abbasid.txt"
->>>>>>> Stashed changes
+GUY = "countries/Gascony.txt"
+TOU = "countries/Toulouse.txt"
