@@ -7,13 +7,13 @@ owner = LOT
 controller = LOT
 culture = wallonian
 religion = catholic
-trade_goods = glass
+trade_goods = grain
 capital = "Aachen"
-base_tax = 5
-base_production = 5
+base_tax = 2
+base_production = 4
 is_city = yes
 add_core = LOT
-base_manpower = 5
+base_manpower = 2
 hre = yes
 
 discovered_by = eastern

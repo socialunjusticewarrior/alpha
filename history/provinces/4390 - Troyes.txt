@@ -5,7 +5,7 @@ latent_trade_goods = {
 
 owner = 
 controller = 
-culture = hessian
+culture = 
 religion = catholic
 trade_goods = glass
 capital = "Aachen"

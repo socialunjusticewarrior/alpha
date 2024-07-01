@@ -5,15 +5,15 @@ latent_trade_goods = {
 
 owner = LOT
 controller = LOT
-culture = hessian
+culture = flemish
 religion = catholic
-trade_goods = glass
+trade_goods = cloth
 capital = "Aachen"
 base_tax = 5
-base_production = 5
+base_production = 7
 is_city = yes
 add_core = LOT
-base_manpower = 5
+base_manpower = 2
 hre = yes
 
 discovered_by = eastern
