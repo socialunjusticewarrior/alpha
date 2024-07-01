@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = Atheanian
-religion = catholic
+religion = chalcedonian
 capital = "Negroponte"
 trade_goods = fish
 hre = no

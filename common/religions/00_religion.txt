@@ -16,7 +16,7 @@ christian = {
 
 	
 	
-	catholic = {
+	chalcedonian = {
 		color = { 255 192 0 }
 		icon = 1
 		allowed_conversion = {

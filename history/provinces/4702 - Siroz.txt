@@ -1,7 +1,7 @@
 owner = BYZ
 controller = BYZ
 culture = Macedonian
-religion = catholic
+religion = chalcedonian
 capital = "Siroz"
 trade_goods = grain
 hre = no

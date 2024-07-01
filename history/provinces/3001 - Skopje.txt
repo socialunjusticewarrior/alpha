@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = NorthMacedonians
-religion = catholic
+religion = chalcedonian
 capital = "Skopje"
 trade_goods = copper
 hre = no

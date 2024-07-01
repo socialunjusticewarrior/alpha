@@ -1,7 +1,7 @@
 owner = BYZ
 controller = BYZ
 culture = Epirote
-religion = catholic
+religion = chalcedonian
 capital = "Arta"
 trade_goods = livestock
 hre = no

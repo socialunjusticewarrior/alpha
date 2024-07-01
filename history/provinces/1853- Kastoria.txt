@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = Macedonian
-religion = catholic
+religion = chalcedonian
 capital = "Kastoria"
 trade_goods = wine
 hre = no

@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = Macedonian
-religion = catholic
+religion = chalcedonian
 capital = "Trikala"
 trade_goods = wool
 hre = no

@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = Anatolian
-religion = catholic
+religion = chalcedonian
 capital = "Biga"
 trade_goods = naval_supplies
 hre = no

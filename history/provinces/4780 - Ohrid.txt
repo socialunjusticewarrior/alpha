@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = NorthMacedonians
-religion = catholic
+religion = chalcedonian
 capital = "Ohrid"
 trade_goods = wool
 hre = no

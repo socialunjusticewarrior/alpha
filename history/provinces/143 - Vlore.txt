@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = Albanian
-religion = catholic
+religion = chalcedonian
 capital = "Vlorë"
 trade_goods = wool #or salt
 hre = no

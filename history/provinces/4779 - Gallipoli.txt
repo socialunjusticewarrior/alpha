@@ -1,7 +1,7 @@
 owner = BYZ
 controller = BYZ
 culture = Thracian
-religion = catholic
+religion = chalcedonian
 capital = "Gallipoli"
 trade_goods = livestock
 hre = no

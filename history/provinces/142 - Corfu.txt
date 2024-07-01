@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 culture = Epirote
-religion = catholic
+religion = chalcedonian
 capital = "Corfu"
 trade_goods = fish
 hre = no

@@ -1,7 +1,7 @@
 owner = BYZ
 controller = BYZ
 culture = Epirote
-religion = catholic
+religion = chalcedonian
 capital = "Agios Georgios"
 trade_goods = wine
 hre = no
