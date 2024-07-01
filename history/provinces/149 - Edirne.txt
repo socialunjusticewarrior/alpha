@@ -2,8 +2,8 @@
 
 owner = BYZ
 controller = BYZ
-culture = greek
-religion = orthodox
+culture = Thracian
+religion = catholic
 capital = "Edirne"
 trade_goods = cloth
 hre = no

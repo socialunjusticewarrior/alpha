@@ -2011,7 +2011,7 @@ south_slavic = {
 			"Krum" "Dulo" "Cometopuli" "Asen" "Terter" "Shishman" "Teleki"
 		}
 	}
-	albanian = {
+	Albanite = {
 		primary = ALB
 		male_names = {
 			Gjergj Lek� Gjon Kostandin Lul�zim Pal Tanush Aleksand�r Karolus Filippo Adnan Agim Bashkim Besnik 
@@ -3011,9 +3011,9 @@ baltic	= {
 	}
 }
 
-byzantine = {
+Hellenic = {
 	graphical_culture = easterngfx
-	greek = {
+	Hellenic = {
 		primary = GRE
 		male_names = {
 			Adrianos Akakios Alexandros Alexios Anastasios Anatolios 
@@ -3129,7 +3129,49 @@ byzantine = {
 			"Kotzes" "Toxaras" "Aplakes" "Gomostos" "Koupharas" "Tyropoulis" "Kontomytes" "Chenopoulos" "Sellokalas" 
 			"Kentrokoukouros" "Antigonos" "Pastillas" "Katakalitzes" "Manikophagos" "Kolokynthis" "Rachites" "Bua Spatas" 
 			"Apsimaros" "Artemios"
+        	}
+        }
+        Morean = {
+        	
+        	primary = BYZ
+        }
+        Atheanian = {
+        	
+        	primary = BYZ
+        }
+		Epirote = {
+	
+        	primary = BYZ
+        }
+        Thracian = {
+        	
+        	primary = BYZ
+        }
+        Macedonian = {
+        	
+        	primary = BYZ
+        }
+        Turko-Hellenic = {
+        	
+        	primary = BYZ
+        }
+		Anatolian = {
+        	
+        	primary = BYZ
 		}
+        Italo-Hellenic = {
+        	
+        	primary = BYZ
+		
+		}
+        Creto-Cypriot = {
+        	
+        	primary = BYZ
+        }
+		Albanian = {
+        	
+        	primary = BYZ
+        }
 	}
 	pontic_greek = {
 		primary = TRE

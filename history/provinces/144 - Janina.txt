@@ -2,8 +2,8 @@
 
 owner = BYZ
 controller = BYZ
-culture = greek
-religion = orthodox
+culture = Epirote
+religion = catholic
 capital = "Ioannina"
 trade_goods = wool
 hre = no

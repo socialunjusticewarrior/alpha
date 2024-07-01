@@ -2,8 +2,8 @@
 
 owner = BYZ
 controller = BYZ
-culture = greek
-religion = orthodox
+culture = Macedonian
+religion = catholic
 capital = "Thessaloniki"
 trade_goods = cloth
 hre = no

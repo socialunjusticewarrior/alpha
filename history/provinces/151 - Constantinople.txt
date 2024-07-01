@@ -3,8 +3,8 @@
 add_core = BYZ
 owner = BYZ
 controller = BYZ
-culture = greek
-religion = orthodox
+culture = Thracian
+religion = catholic
 capital = "Constantinople"
 trade_goods = glass
 base_tax = 8 
