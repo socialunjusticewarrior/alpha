@@ -13,6 +13,11 @@ MOE	= "countries/Morea.txt"
 #LOWLANDS
 LOT = "countries/Lotharingia.txt"
 FLZ = "countries/Flachland.txt"
+
+#FRANCE
+GUY = "countries/Gascony.txt"
+TOU = "countries/Toulouse.txt"
+
 #ITALY
 VEN = "countries/Venice.txt"
 
