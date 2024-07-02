@@ -17,6 +17,11 @@ FLZ = "countries/Flachland.txt"
 #FRANCE
 GUY = "countries/Gascony.txt"
 TOU = "countries/Toulouse.txt"
+ALR = "countries/Arles.txt"
+BER = "countries/Berry.txt"
+NRM = "countries/Normandy.txt"
+PRZ = "countries/Paris.txt"
+MNE = "countries/Maine.txt"
 
 #ITALY
 VEN = "countries/Venice.txt"

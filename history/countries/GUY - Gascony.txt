@@ -2,9 +2,9 @@ government = monarchy
 add_government_reform = appanage_reform
 government_rank = 2
 technology_group = western
-primary_culture = gascon
-add_accepted_culture = cosmopolitan_french
-religion = catholic
+primary_culture = chalcedonian
+add_accepted_culture = occitain
+religion = chalcedonian
 capital = 174 	# Bordeaux
 
 

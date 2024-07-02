@@ -1,17 +1,24 @@
 government = monarchy
 add_government_reform = appanage_reform
 government_rank = 1
-primary_culture = occitain
-add_accepted_culture = occitain
-religion = chalcedonian
 technology_group = western
-capital = 196	# Toulouse
-fixed_capital = 196 # Cannot move capital away from this province & no power cost to move to it
+primary_culture = Norman
+add_accepted_culture = Norman
+religion = chalcedonian
+capital = 168	# Caen
+
+1465.8.15 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "de Valois"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
 
 1515.1.1 = { government = monarchy
 add_government_reform = autocracy_reform }
-
-1560.1.1 = { religion = reformed }
 
 1589.8.3 = { set_legacy_government = administrative_monarchy }
 
