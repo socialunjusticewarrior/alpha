@@ -25,11 +25,9 @@ germanic = {
 			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
 			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
 			Janusz John Jaromar
-			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jir� George Jozef Joseph 
 			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
 			Koloman Kornel Cornelius Kresimir Krzeslaw
 			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
-			Martin Mateusz Matthew Mieszko Mikol�s Nicholas Miloslaw Milosz Miroslaw 
 			Mscislaw Mstislav Msciwoj
 			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
 			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
@@ -46,10 +44,6 @@ germanic = {
 			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
 			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
 			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
-			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Mark�ta Martyna 
-			Mateja Matylda Matilda Milena Miroslava Pechna R�za Radomila Radomira Radoslava
-			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula V�clava 
-			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
 			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
@@ -96,7 +90,7 @@ germanic = {
 		primary = HAN
 		male_names = {
 			Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm 
-			Alexander Alois Anton Bruno Clemens Denis Gerfried Gottfried G�nther Helmut Herbert Ignatz Isidor 
+			Helmut Herbert Ignatz Isidor 
 			Konstantin Kuno Markus Martin Oskar Reinhard Silvester Stefan Waldemar Jakob
 		}
 		female_names = {
@@ -107,7 +101,7 @@ germanic = {
 		primary = WES
 		male_names = {
 			Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm 
-			Alexander Alois Anton Bruno Clemens Denis Gerfried Gottfried G�nther Helmut Herbert Ignatz Isidor 
+			AlexanderHelmut Herbert Ignatz Isidor 
 			Konstantin Kuno Markus Martin Oskar Reinhard Silvester Stefan Waldemar Jakob
 		}
 		female_names = {
@@ -131,11 +125,11 @@ germanic = {
 		male_names = {
 			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
 			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
-			Andreas Bruno Burkhard G�nther HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
-			Alwin Ad�mar Alwin Adolf Albert Albrecht Arnold Baltasar
+			HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
+			Alwin Adolf Albert Albrecht Arnold Baltasar
 			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
 			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
-			Erik Albert Ewald Frederick Gerard Gebhard Giselmar Gottschalk G�nther Hans 
+			Hans 
 			Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Johann Kersten 
 			Christian Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
 			Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 

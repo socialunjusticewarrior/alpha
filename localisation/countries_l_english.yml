@@ -1,6 +1,22 @@
 ﻿l_english:
- FLZ:0 "Flachland"
- VEN:0 "Venice"
- MOE:0 "Morea"
+ #FRANCE
  GUY:0 "Gascony"
  TOU:0 "Toulouse"
+
+ #LOWLANDS
+ FLZ:0 "Flachland"
+
+ #ITALY
+ VEN:0 "Venice"
+
+ #BALKANS
+ MOE:0 "Morea"
+ SER:0 "Serbia"
+ ALB:0 "Albania"
+ MON:0 "Montenegro"
+ WAL:0 "Wallachia"
+ BOS:0 "Bosnia"
+ HRZ:0 "Herzegovina"
+ DAL:0 "Dalmatia"
+ HUN:0 "Hungary"
+ CRO:0 "Croatia"

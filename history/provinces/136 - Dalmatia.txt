@@ -1,1 +1,27 @@
-discovered_by = north_american
+#136 - Split
+
+owner = HUN
+controller = HUN
+culture = dalmatian
+religion = chalcedonian
+capital = "Split"
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes # Klis Fortress
+add_core = CRO
+add_core = DAL
+add_core = HUN
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+

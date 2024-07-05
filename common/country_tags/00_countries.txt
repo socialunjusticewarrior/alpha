@@ -9,6 +9,15 @@ RUM = "countries/Rum.txt"
 #BALKANS
 BYZ = "countries/ByzantineEmpire.txt"
 MOE	= "countries/Morea.txt"
+ALB	= "countries/Albania.txt"
+SER	= "countries/Serbia.txt"
+MON	= "countries/Montenegro.txt"
+WAL	= "countries/Wallachia.txt"
+BOS = "countries/Bosnia.txt"
+HRZ = "countries/Herzegovina.txt"
+HUN = "countries/Hungary.txt"
+DAL = "countries/Dalmatia.txt"
+CRO = "countries/Croatia.txt"
 
 #LOWLANDS
 LOT = "countries/Lotharingia.txt"
