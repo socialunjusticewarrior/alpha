@@ -1,1 +1,18 @@
-discovered_by = north_american
+# 183 �le-de-France - Principal cities: Paris
+
+owner = PRZ
+controller = PRZ
+capital = "Paris"
+is_city = yes
+culture = French
+religion = chalcedonian
+hre = no
+base_tax = 8
+base_production = 8
+trade_goods = paper
+base_manpower = 7
+add_core = FRA
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+center_of_trade = 2

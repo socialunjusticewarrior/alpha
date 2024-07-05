@@ -1,1 +1,19 @@
-discovered_by = north_american
+# 184 Orl�annais + Blois - Principal cities: Orl�ans
+
+owner = BER
+controller = BER
+capital = "Orl�ans"
+is_city = yes
+culture = French
+religion = chalcedonian
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = grain
+base_manpower = 5
+add_core = BER
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+center_of_trade = 1

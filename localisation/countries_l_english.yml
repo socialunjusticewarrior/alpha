@@ -2,6 +2,11 @@
  #FRANCE
  GUY:0 "Gascony"
  TOU:0 "Toulouse"
+ ALR:0 "Arles"
+ BER:0 "Berry"
+ NRM:0 "Normandy"
+ PRZ:0 "Paris"
+ MNE:0 "Maine"
 
  #LOWLANDS
  FLZ:0 "Flachland"
@@ -20,3 +25,5 @@
  DAL:0 "Dalmatia"
  HUN:0 "Hungary"
  CRO:0 "Croatia"
+
+

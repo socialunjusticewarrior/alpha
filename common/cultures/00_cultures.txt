@@ -1598,9 +1598,9 @@ Frankish = {
 		
 		primary = TOU
 	}
-	burgundian = {
+	Arlean = {
 		
-		primary = BUR
+		primary = ARL
 	}
 	occitain = {
 		

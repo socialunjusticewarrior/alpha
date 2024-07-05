@@ -3,8 +3,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = 
-controller = 
+owner = ALR
+controller = ALR
 culture = French
 religion = chalcedonian
 trade_goods = glass

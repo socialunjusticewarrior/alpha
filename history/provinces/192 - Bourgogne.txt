@@ -3,9 +3,9 @@ latent_trade_goods = {
 	coal
 }
 
-owner = 
-controller = 
-culture = French
+owner = ALR
+controller = ALR
+culture = Arlean
 religion = chalcedonian
 trade_goods = glass
 capital = "Aachen"

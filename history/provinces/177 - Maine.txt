@@ -1,1 +1,18 @@
-discovered_by = north_american
+# 177 Maine - Principal cities: Le Mans, Laval
+
+owner = MNE
+controller = MNE
+capital = "Le Mans"
+is_city = yes
+culture = French
+religion = chalcedonian
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 4
+add_local_autonomy = 80
+add_core = MNE
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim

@@ -1,1 +1,18 @@
-discovered_by = north_american
+#191 - nevers
+
+owner = ALR
+controller = ALR
+culture = Arlean
+religion = chalcedonian
+trade_goods = glass
+base_tax = 5
+base_production = 5
+is_city = yes
+add_core = 
+base_manpower = 5
+hre = no
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,1 +1,18 @@
-discovered_by = north_american
+# 4388 Chartres
+
+owner = PRZ
+controller = PRZ
+capital = "Chartres"
+is_city = yes
+culture = French
+religion = chalcedonian
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 6
+fort_15th = yes
+add_core = PRZ
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
