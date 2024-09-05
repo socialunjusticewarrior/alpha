@@ -5,6 +5,7 @@ NAT = "countries/Natives.txt"
 
 #ANATOLIA
 RUM = "countries/Rum.txt"
+KNI = "countries/Knights.txt"
 
 #BALKANS
 BYZ = "countries/ByzantineEmpire.txt"

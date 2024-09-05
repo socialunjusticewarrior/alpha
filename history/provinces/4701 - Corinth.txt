@@ -1,6 +1,6 @@
 owner = MOE
 controller = MOE
-culture = greek
+culture = Morean
 religion = chalcedonian
 capital = "Corinth"
 trade_goods = wine
