@@ -2,7 +2,7 @@
 
 owner = KNI
 controller = KNI
-culture = Atheanian
+culture = insular
 religion = chalcedonian
 capital = "Chio"
 trade_goods = wine

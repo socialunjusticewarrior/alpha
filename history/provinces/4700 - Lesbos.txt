@@ -2,7 +2,7 @@
 
 owner = BYZ
 controller = BYZ
-culture = Atheanian
+culture = insular
 religion = chalcedonian
 capital = "Mytilene"
 trade_goods = fish

@@ -2,7 +2,7 @@
 
 owner = BOS 
 controller = BOS
-culture = bosnian
+culture = croatian
 religion = chalcedonian
 capital = "Jajce"
 trade_goods = livestock

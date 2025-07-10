@@ -1,8 +1,10 @@
 #143 - Vlorë - Southern Albania
 
-owner = BYZ
-controller = BYZ
-culture = Albanian
+owner = MSM
+controller = MSM
+add_core = MSM
+add_core = ALB
+culture = toska
 religion = chalcedonian
 capital = "Vlorë"
 trade_goods = wool #or salt
@@ -11,8 +13,6 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = BYZ
-add_core = ALB
 
 discovered_by = KAZ
 discovered_by = CRI

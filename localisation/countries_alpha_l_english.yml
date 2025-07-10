@@ -1,5 +1,4 @@
 ﻿l_english:
- #FRANCE
  GUY:0 "Gascony"
  TOU:0 "Toulouse"
  ALR:0 "Arles"
@@ -8,15 +7,14 @@
  PRZ:0 "Paris"
  MNE:0 "Maine"
 
- #LOWLANDS
  FLZ:0 "Flachland"
 
- #ITALY
  VEN:0 "Venice"
+ AUI:0 "Auringia"
+ AFI:0 "Africani"
 
- #BALKANS
  MOE:0 "Morea"
- SER:0 "Serbia"
+ SER:0 "Raska"
  ALB:0 "Albania"
  MON:0 "Montenegro"
  WAL:0 "Wallachia"
@@ -25,7 +23,14 @@
  DAL:0 "Dalmatia"
  HUN:0 "Hungary"
  CRO:0 "Croatia"
+ MAC:0 "Macedonia"
+ MOL:0 "Moldavia"
 
- #ANATOLIA
  KNI:0 "Knights"
 
+ MSM:0 "Mesembria"
+ ROH:0 "Rhomania"
+
+ VBI:0 "Volga Bulgaria"
+
+ ABB:0 "Abbasids"

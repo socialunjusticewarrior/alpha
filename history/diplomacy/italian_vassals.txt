@@ -1,0 +1,18 @@
+vassal = {
+	first = MSM
+	second = MOE
+	start_date = 1444.1.1
+	end_date = 1572.1.1
+}
+union = {
+	first = MSM
+	second = NAP
+	start_date = 1444.1.1
+	end_date = 1572.1.1
+}
+vassal = {
+	first = MSM
+	second = MAC
+	start_date = 1444.1.1
+	end_date = 1572.1.1
+}

@@ -1,8 +1,10 @@
 #3001 - Skopje
 
-owner = BYZ
-controller = BYZ
-culture = NorthMacedonian
+owner = MAC
+controller = MAC
+add_core = MAC
+add_core = SER
+culture = north_macedonian
 religion = chalcedonian
 capital = "Skopje"
 trade_goods = copper
@@ -11,8 +13,6 @@ base_tax = 2
 base_production = 4 #Many productive Mines
 base_manpower = 2
 is_city = yes
-add_core = BYZ
-add_core = SER
 
 discovered_by = KAZ
 discovered_by = CRI

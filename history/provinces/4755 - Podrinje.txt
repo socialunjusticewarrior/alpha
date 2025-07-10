@@ -2,7 +2,7 @@
 
 owner = BOS 
 controller = BOS
-culture = bosnian
+culture = raskan
 religion = chalcedonian
 capital = "Visegrad"
 trade_goods = salt

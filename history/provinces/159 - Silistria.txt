@@ -3,7 +3,7 @@
 owner = BYZ
 controller = BYZ
 add_core = BYZ
-culture = bulgarian
+culture = european_bulgarian
 religion = chalcedonian
 capital = "Silistra"
 trade_goods = fish

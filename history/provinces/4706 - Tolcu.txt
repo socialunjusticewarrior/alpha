@@ -1,6 +1,6 @@
 owner = BYZ
 controller = BYZ
-culture = bulgarian
+culture = getae
 religion = chalcedonian
 capital = "Tolcu"
 trade_goods = wool

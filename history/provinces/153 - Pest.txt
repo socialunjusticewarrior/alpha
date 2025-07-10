@@ -1,1 +1,26 @@
-discovered_by = north_american
+#153 - Pest (Pest + Pilis + Esztergom + Kalocsa + most of Kiskuns�g + Parts of N�gr�d )
+
+owner = HUN
+controller = HUN 
+add_core = HUN
+culture = magyar
+religion = chalcedonian
+capital = "Buda"
+trade_goods = Paper
+hre = no
+base_tax = 5
+base_production = 12
+base_manpower = 8
+is_city = yes
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2

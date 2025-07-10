@@ -2,7 +2,7 @@
 
 owner = BYZ
 controller = BYZ
-culture = Thracian
+culture = thracian
 religion = chalcedonian
 capital = "Edirne"
 trade_goods = cloth

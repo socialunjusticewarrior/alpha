@@ -1,8 +1,9 @@
 #148 - Macedonia
 
-owner = BYZ
-controller = BYZ
-culture = Macedonian
+owner = MAC
+controller = MAC
+add_core = MAC
+culture = central_macedonian
 religion = chalcedonian
 capital = "Thessaloniki"
 trade_goods = cloth
@@ -12,7 +13,6 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = BYZ
 
 discovered_by = western
 discovered_by = eastern

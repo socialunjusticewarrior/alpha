@@ -2,7 +2,7 @@
 
 owner = VEN
 controller = VEN
-culture = Creto-Cypriot
+culture = insular
 religion = chalcedonian
 capital = "Heraklion"
 trade_goods = fish

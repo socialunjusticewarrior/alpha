@@ -1,1 +1,19 @@
-discovered_by = north_american
+#126 - Malta
+
+owner = AFI
+controller = AFI
+add_core = AFI
+culture = Insulani 
+religion = chalcedonian 
+hre = no 
+base_tax = 3 
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Mdina" 
+is_city = yes
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

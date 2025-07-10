@@ -1,8 +1,9 @@
 #1853 - Kastoria
 
-owner = BYZ
-controller = BYZ
-culture = Macedonian
+owner = MSM
+controller = MSM
+add_core = MSM
+culture = central_macedonian
 religion = chalcedonian
 capital = "Kastoria"
 trade_goods = wine
@@ -11,7 +12,6 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = BYZ
 
 discovered_by = western
 discovered_by = eastern

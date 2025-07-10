@@ -2,7 +2,7 @@
 
 owner = BYZ
 controller = BYZ
-culture = bulgarian
+culture = european_bulgarian
 religion = chalcedonian
 capital = "Plovdiv"
 trade_goods = grain

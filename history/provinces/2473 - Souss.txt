@@ -1,1 +1,19 @@
-discovered_by = north_american
+# - Susa
+
+owner = AFI
+controller = AFI
+add_core = AFI
+culture = africensis
+religion = chalcedonian
+capital = "Susa"
+trade_goods = sugar
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+discovered_by = eastern

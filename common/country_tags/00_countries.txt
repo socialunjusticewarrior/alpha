@@ -6,6 +6,7 @@ NAT = "countries/Natives.txt"
 #ANATOLIA
 RUM = "countries/Rum.txt"
 KNI = "countries/Knights.txt"
+AYD = "countries/Aydin.txt"
 
 #BALKANS
 BYZ = "countries/ByzantineEmpire.txt"
@@ -19,6 +20,8 @@ HRZ = "countries/Herzegovina.txt"
 HUN = "countries/Hungary.txt"
 DAL = "countries/Dalmatia.txt"
 CRO = "countries/Croatia.txt"
+MAC = "countries/Macedonia.txt"
+MOL = "countries/Moldavia.txt"
 
 #LOWLANDS
 LOT = "countries/Lotharingia.txt"
@@ -35,6 +38,17 @@ MNE = "countries/Maine.txt"
 
 #ITALY
 VEN = "countries/Venice.txt"
+MSM = "countries/Mesembria.txt"
+ROH = "countries/Rhomania.txt"
+NAP = "countries/Naples.txt"
+SIC = "countries/Sicily.txt"
+AUI = "countries/Auringia.txt"
 
 #ARABIA
 ABB = "countries/Abbasid.txt"
+
+#Eastern Europe
+VBI = "countries/Volga Bulgaria.txt"
+
+#North Africa
+AFI = "countries/Africani.txt"

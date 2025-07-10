@@ -1,6 +1,6 @@
 owner = BYZ
 controller = BYZ
-culture = bulgarian
+culture = european_bulgarian
 religion = chalcedonian
 capital = "Tarnovo"
 trade_goods = cloth

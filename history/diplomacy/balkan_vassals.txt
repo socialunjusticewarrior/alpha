@@ -18,3 +18,15 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1572.1.1
 }
+tributary = {
+	first = BYZ
+	second = AYD
+	start_date = 1444.1.1
+	end_date = 1572.1.1
+}
+union = {
+	first = HUN
+	second = CRO
+	start_date = 1444.1.1
+	end_date = 1572.1.1
+}

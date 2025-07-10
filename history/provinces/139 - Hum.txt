@@ -2,7 +2,7 @@
 
 owner = BOS
 controller = BOS
-culture = bosnian
+culture = croatian
 religion = chalcedonian
 capital = "Mostar"	# Unofficial capital of Herzegovina
 trade_goods = wool

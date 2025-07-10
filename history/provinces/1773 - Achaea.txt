@@ -2,7 +2,7 @@
 
 owner = MOE
 controller = MOE
-culture = Morean
+culture = morean
 religion = chalcedonian
 capital = "Nafplio"
 trade_goods = wine

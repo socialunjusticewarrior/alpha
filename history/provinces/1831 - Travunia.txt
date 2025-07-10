@@ -2,7 +2,7 @@
 
 owner = BOS
 controller = BOS
-culture = bosnian
+culture = croatian
 religion = chalcedonian
 capital = "Herceg Novi"
 trade_goods = wool

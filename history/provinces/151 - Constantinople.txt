@@ -1,9 +1,9 @@
 #151 - Constantinople
 
-add_core = BYZ
-owner = BYZ
-controller = BYZ
-culture = Thracian
+add_core = ROH
+owner = ROH
+controller = ROH
+culture = thracian
 religion = chalcedonian
 capital = "Constantinople"
 trade_goods = glass

@@ -2,7 +2,7 @@
 
 owner = KNI 		# Knights of St. John Hospitaler of Jerusalem
 controller = KNI
-culture = Atheanian
+culture = insular
 religion = chalcedonian
 capital = "Rhodes"
 trade_goods = fish

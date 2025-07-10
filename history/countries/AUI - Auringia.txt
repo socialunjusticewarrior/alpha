@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = byzantine_autocracy_reform
+government_rank = 1
+primary_culture = vandal
+religion = chalcedonian
+technology_group = western
+historical_rival = SIC
+capital = 4735

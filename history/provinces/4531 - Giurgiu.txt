@@ -2,7 +2,8 @@
 
 owner = WAL
 controller = WAL  
-culture = romanian
+add_core = WAL
+culture = vlach
 religion = chalcedonian
 capital = "Giurgiu"
 trade_goods = livestock
@@ -11,7 +12,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = WAL
 fort_15th = yes
 
 discovered_by = KAZ

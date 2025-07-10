@@ -2,7 +2,7 @@
 
 owner = WAL
 controller = WAL 
-culture = Wallacian
+culture = vlach
 religion = chalcedonian
 capital = "Craiova"
 trade_goods = copper

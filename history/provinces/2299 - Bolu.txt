@@ -3,7 +3,7 @@
 add_core = RUM
 owner = RUM
 controller = RUM
-culture = turkish
+culture = anatolians
 religion = sunni
 capital = "Bolu"
 trade_goods = fish

@@ -2,7 +2,7 @@
 
 owner = SER
 controller = SER
-culture = serbian
+culture = raskan
 religion = chalcedonian
 capital = "Kruševac"
 trade_goods = livestock

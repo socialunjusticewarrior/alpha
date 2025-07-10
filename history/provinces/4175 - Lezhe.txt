@@ -2,7 +2,7 @@
 
 owner = VEN
 controller = VEN
-culture = albanian
+culture = dardanian
 religion = chalcedonian
 capital = "Lezhë"
 trade_goods = wool

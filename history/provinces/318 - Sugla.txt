@@ -2,7 +2,7 @@
 
 owner = KNI
 controller = KNI
-culture = Anatolian 
+culture = ionians 
 religion = chalcedonian
 capital = "Izmirni"
 trade_goods = cotton #Major producer and exporter of Cotton

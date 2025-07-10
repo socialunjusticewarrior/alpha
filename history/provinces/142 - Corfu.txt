@@ -1,8 +1,9 @@
 #142 - Corfu
 
-owner = BYZ
-controller = BYZ
-culture = Epirote
+owner = MSM
+controller = MSM
+add_core = MSM
+culture = insular
 religion = chalcedonian
 capital = "Corfu"
 trade_goods = fish
@@ -11,7 +12,6 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 is_city = yes
-add_core = BYZ
 
 discovered_by = western
 discovered_by = eastern
