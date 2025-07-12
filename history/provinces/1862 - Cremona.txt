@@ -1,1 +1,19 @@
-discovered_by = north_american
+#1862 - Cremona
+
+owner = LAB
+controller = LAB
+add_core = LAB
+culture = langobardi
+religion = chalcedonian
+hre = no
+base_tax = 6
+base_production = 5 
+trade_goods = grain
+base_manpower = 12
+capital = "Cremona"
+is_city = yes	# Estimated
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

@@ -1527,6 +1527,19 @@ latin_group = {
    
         }
     }
+	veneti = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
 }
 finno_ugric_group = {
     graphical_culture = anatolian_gfx
@@ -1588,6 +1601,19 @@ South_germanic_group = {
         }
     }
     vandal = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+    langobardi = {
         male_names = {
 
         }

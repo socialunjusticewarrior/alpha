@@ -42,6 +42,8 @@ MSM = "countries/Mesembria.txt"
 NAP = "countries/Naples.txt"
 SIC = "countries/Sicily.txt"
 AUI = "countries/Auringia.txt"
+LAB = "countries/Lombardia.txt"
+MLO = "countries/Milan.txt"
 
 #ARABIA
 ABB = "countries/Abbasid.txt"
