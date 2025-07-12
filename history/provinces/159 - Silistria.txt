@@ -1,8 +1,8 @@
 #159 - Silistria
 
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner = ROH
+controller = ROH
+add_core = ROH
 culture = european_bulgarian
 religion = chalcedonian
 capital = "Silistra"

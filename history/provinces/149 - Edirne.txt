@@ -1,7 +1,8 @@
 #149 - Edirne
 
-owner = BYZ
-controller = BYZ
+owner = ROH
+controller = ROH
+add_core = ROH
 culture = thracian
 religion = chalcedonian
 capital = "Edirne"
@@ -11,7 +12,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = BYZ
 
 discovered_by = western
 discovered_by = eastern

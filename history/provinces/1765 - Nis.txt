@@ -1,7 +1,8 @@
 #1765 - Sofia
 
-owner = BYZ
-controller = BYZ
+owner = ROH
+controller = ROH
+add_core = ROH
 culture = european_bulgarian
 religion = chalcedonian
 capital = "Sofia"
@@ -11,7 +12,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = BYZ
 
 discovered_by = western
 discovered_by = eastern

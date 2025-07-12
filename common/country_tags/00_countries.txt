@@ -9,7 +9,7 @@ KNI = "countries/Knights.txt"
 AYD = "countries/Aydin.txt"
 
 #BALKANS
-BYZ = "countries/ByzantineEmpire.txt"
+ROH = "countries/Rhomania.txt"
 MOE	= "countries/Morea.txt"
 ALB	= "countries/Albania.txt"
 SER	= "countries/Serbia.txt"
@@ -39,7 +39,6 @@ MNE = "countries/Maine.txt"
 #ITALY
 VEN = "countries/Venice.txt"
 MSM = "countries/Mesembria.txt"
-ROH = "countries/Rhomania.txt"
 NAP = "countries/Naples.txt"
 SIC = "countries/Sicily.txt"
 AUI = "countries/Auringia.txt"

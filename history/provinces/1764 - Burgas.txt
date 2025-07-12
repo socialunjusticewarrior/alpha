@@ -1,8 +1,8 @@
 #1764 - Burgas
 
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner = ROH
+controller = ROH
+add_core = ROH
 culture = seresians
 religion = chalcedonian
 capital = "Burgas"

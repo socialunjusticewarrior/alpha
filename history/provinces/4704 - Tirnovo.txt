@@ -1,5 +1,6 @@
-owner = BYZ
-controller = BYZ
+owner = ROH
+controller = ROH
+add_core = ROH
 culture = european_bulgarian
 religion = chalcedonian
 capital = "Tarnovo"
@@ -9,7 +10,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = BYZ
 
 discovered_by = western
 discovered_by = eastern
