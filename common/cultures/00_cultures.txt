@@ -1528,7 +1528,7 @@ latin_group = {
         }
     }
 }
-finno_ugric_group = {
+uralic_group = {
     graphical_culture = anatolian_gfx
 
     magyar = {
@@ -1544,7 +1544,215 @@ finno_ugric_group = {
    
         }
     }
-    raskarya  = {
+    raskarya = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	sami = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	finnish = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	estonian = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	karelian = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	veps = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	bjarmian = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	merya = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	murom = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	meshchera = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	mordvin = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	mari = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	komi = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	udmurt = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	mansi = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	khanty = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
+	samoyed = {
         male_names = {
 
         }
