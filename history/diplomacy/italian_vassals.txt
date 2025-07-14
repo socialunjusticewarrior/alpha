@@ -16,3 +16,10 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1572.1.1
 }
+march = {
+	first = LAB
+	second = MLO
+	start_date = 1444.1.1
+	end_date = 1572.1.1
+}
+
