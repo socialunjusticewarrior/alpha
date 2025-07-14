@@ -1540,6 +1540,19 @@ latin_group = {
    
         }
     }
+	roman = {
+        male_names = {
+
+        }
+
+        female_names = {
+
+        }
+
+        dynasty_names = {
+   
+        }
+    }
 }
 uralic_group = {
     graphical_culture = anatolian_gfx

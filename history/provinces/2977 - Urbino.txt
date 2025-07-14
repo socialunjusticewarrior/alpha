@@ -1,1 +1,19 @@
-discovered_by = north_american
+# Urbino
+
+owner = LAB
+controller = LAB
+culture = roman 
+religion = chalcedonian 
+hre = no 
+base_tax = 5
+base_production = 5
+trade_goods = grain
+base_manpower = 2
+capital = "Urbino" 
+is_city = yes
+add_core = LAB
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+extra_cost = 8
+center_of_trade = 1

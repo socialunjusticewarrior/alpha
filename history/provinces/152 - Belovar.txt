@@ -1,8 +1,9 @@
 #152 - Varazd
 
-owner = CRO
-controller = CRO
+owner = HUN
+controller = HUN
 add_core = CRO
+add_core = HUN
 culture = croatian
 religion = chalcedonian
 capital = "Varazdin"

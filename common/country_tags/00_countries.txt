@@ -44,6 +44,7 @@ SIC = "countries/Sicily.txt"
 AUI = "countries/Auringia.txt"
 LAB = "countries/Lombardia.txt"
 MLO = "countries/Milan.txt"
+LAZ = "countries/Latium.txt"
 
 #ARABIA
 ABB = "countries/Abbasid.txt"

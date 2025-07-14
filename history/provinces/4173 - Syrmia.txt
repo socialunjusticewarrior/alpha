@@ -1,9 +1,9 @@
 #4173 - Syrmia
 
-owner = CRO
-controller = CRO 
+owner = HUN
+controller = HUN 
 add_core = CRO
-add_core = SER
+add_core = HUN
 culture = pannonian
 religion = chalcedonian
 capital = "Mitrovica"

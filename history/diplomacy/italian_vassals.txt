@@ -22,4 +22,10 @@ march = {
 	start_date = 1444.1.1
 	end_date = 1572.1.1
 }
+tributary = {
+	first = LAB
+	second = LAZ
+	start_date = 1444.1.1
+	end_date = 1572.1.1
+}
 

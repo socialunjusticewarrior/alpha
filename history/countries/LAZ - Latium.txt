@@ -1,0 +1,7 @@
+government = republic
+add_government_reform = constitutional_republic
+government_rank = 1
+primary_culture = roman
+religion = chalcedonian
+technology_group = western
+capital = 1933

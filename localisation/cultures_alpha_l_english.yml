@@ -5,8 +5,9 @@
  bulgar_group:0 "Bulgar"
  ohguz_group:0 "Ohguz"
  South_germanic_group:0 "South Germanic"
- finno_ugric_group:0 "Finno-Ugric"
+ uralic_group:0 "Finno-Ugric"
  latin_group:0 "Latins"
+ slavic_group:0 "Slavs"
 
  edessan:0 "Edessan"
  outremer:0 "Outremer"
@@ -44,3 +45,4 @@
  getae:0 "Getae"
  carpi:0 "Carpi"
  buri:0 "Buri"
+ roman:0 "Rhomani"
